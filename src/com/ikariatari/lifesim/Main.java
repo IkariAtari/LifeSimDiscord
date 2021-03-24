@@ -10,7 +10,7 @@ import net.dv8tion.jda.api.JDABuilder;
 
 public class Main 
 {
-	public static final String TOKEN = "ODE2MDE2Mjg2MDg5NjA5MjU2.YD00Yw.Q18jL4UQClut5KmIfAYLcszMsCI";
+	public static final String TOKEN = "";
 	public static Words words;
 	public static CardDeck deck = new CardDeck();
 	public static JDA jda;
